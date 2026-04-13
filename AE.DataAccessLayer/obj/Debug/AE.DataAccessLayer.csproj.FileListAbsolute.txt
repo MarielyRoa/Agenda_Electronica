@@ -1,0 +1,11 @@
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\bin\Debug\AE.DataAccessLayer.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\bin\Debug\AE.DataAccessLayer.pdb
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\bin\Debug\AE.Application.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\bin\Debug\AE.Domain.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\bin\Debug\AE.Application.pdb
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\bin\Debug\AE.Domain.pdb
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\obj\Debug\AE.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\obj\Debug\AE.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\obj\Debug\AE.DataA.140FAD1B.Up2Date
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\obj\Debug\AE.DataAccessLayer.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.DataAccessLayer\obj\Debug\AE.DataAccessLayer.pdb

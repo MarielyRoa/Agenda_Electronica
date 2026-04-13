@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AE.Application/AE.Application.csproj" Id="8480b16a-f796-4875-9727-5d3a258fd624" />
+  <Project Path="AE.DataAccessLayer/AE.DataAccessLayer.csproj" Id="f16af032-fb88-4800-b217-6abc0854064c" />
+  <Project Path="AE.Domain/AE.Domain.csproj" Id="ca92d33e-16f5-4609-a8a8-7d38bc9175e9" />
+  <Project Path="AE.PresentationUI/AE.PresentationUI.csproj" Id="57dac45f-e72e-4044-bd1c-d97f3c210a06" />
+</Solution>

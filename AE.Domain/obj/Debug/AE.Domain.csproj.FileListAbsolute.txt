@@ -1,0 +1,6 @@
+C:\Users\marie\source\repos\AgendaElectronica\AE.Domain\bin\Debug\AE.Domain.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.Domain\bin\Debug\AE.Domain.pdb
+C:\Users\marie\source\repos\AgendaElectronica\AE.Domain\obj\Debug\AE.Domain.csproj.AssemblyReference.cache
+C:\Users\marie\source\repos\AgendaElectronica\AE.Domain\obj\Debug\AE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\AgendaElectronica\AE.Domain\obj\Debug\AE.Domain.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.Domain\obj\Debug\AE.Domain.pdb

@@ -1,0 +1,9 @@
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\bin\Debug\AE.Application.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\bin\Debug\AE.Application.pdb
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\bin\Debug\AE.Domain.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\bin\Debug\AE.Domain.pdb
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\obj\Debug\AE.Application.csproj.AssemblyReference.cache
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\obj\Debug\AE.Application.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\obj\Debug\AE.Appli.8A30D1BC.Up2Date
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\obj\Debug\AE.Application.dll
+C:\Users\marie\source\repos\AgendaElectronica\AE.Application\obj\Debug\AE.Application.pdb
