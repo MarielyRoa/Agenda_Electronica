@@ -2,6 +2,9 @@
 
 Aplicación de escritorio desarrollada en **C# con Windows Forms (.NET Framework 4.8)** para la gestión de contactos personales, implementada con arquitectura de **4 capas** + Repository Pattern.
 
+<img width="723" height="455" alt="image" src="https://github.com/user-attachments/assets/a073f6c6-bce9-4813-b9f4-c66a87d0cd76" />
+
+
 ---
 
 ## 🧩 Descripción
